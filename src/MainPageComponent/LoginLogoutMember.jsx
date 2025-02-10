@@ -24,11 +24,11 @@ const LoginLogoutMember = ({ data , title }) => {
                                 <tr>
                                     <th>#</th>
                                     <th>Name</th>
-                                    <th className='vis'>Appointment</th>
+                                    <th className='vis'>Vehicle BA Number</th>
                                     <th>Status</th>
                                     <th>Login Time</th>
                                     <th >Logout Time</th>
-                                    <th className='vis vis1'>Appointer Name</th>
+                                    <th className='vis vis1'>DVR Name</th>
                                 </tr>
                             </thead>
                             <tbody>

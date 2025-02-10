@@ -75,8 +75,8 @@ const AddMember = ({ title  , loading }) => {
                                     <th>Name</th>
                                     <th>Code</th>
                                     <th className='vis vis1'>Member password</th>
-                                    <th>Appointment</th>
-                                    <th className='vis'>Appt Name</th>
+                                    <th>Vehicle BA Number</th>
+                                    <th className='vis'>DVR Name</th>
                                 </tr>
                             </thead>
                             <tbody>

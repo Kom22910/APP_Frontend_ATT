@@ -105,7 +105,7 @@ const UserLayout = () => {
                         <div className="row">
 
                           <div className="col-md-4 col-6 start">
-                            <p>Appointment : </p>
+                            <p>Vehicle BA Number : </p>
                           </div>
 
                           <div className="col-md-4 col-6">
@@ -144,7 +144,7 @@ const UserLayout = () => {
                         <div className="row">
 
                           <div className="col-md-4 col-6 start">
-                            <p>Appt Name : </p>
+                            <p>DVR Name : </p>
                           </div>
 
                           <div className="col-md-4 col-6">
