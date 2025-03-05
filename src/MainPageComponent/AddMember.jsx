@@ -10,6 +10,7 @@ const Base_url = import.meta.env.VITE_BASE_URL;
 const AddMember = ({ title  , loading }) => {
     const nav = useNavigate();
 
+    
     const [totalData, setTotalData] = useState([]);
 
 
